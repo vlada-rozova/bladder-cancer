@@ -134,5 +134,8 @@ dmypy.json
 # Model weights
 */weights/*
 
+# Log files
+*/*logs/*
+
 # Misc
 vgg16-unet example/
