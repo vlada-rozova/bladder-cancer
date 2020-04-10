@@ -136,6 +136,7 @@ dmypy.json
 
 # Log files
 logs/
+*/logs/*
 
 # Misc
 vgg16-unet example/
