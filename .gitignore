@@ -135,7 +135,7 @@ dmypy.json
 */weights/*
 
 # Log files
-*/*logs*/*
+*/logs/*
 
 # Misc
 vgg16-unet example/
